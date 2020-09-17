@@ -1,0 +1,6 @@
+-Make or Add function to generate state in server
+-Resolve Web icon and Names
+-Deploy and Config on Heroku
+-Add more features
+-Add Cache
+-Add SASS
